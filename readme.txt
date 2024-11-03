@@ -3,7 +3,10 @@ Consolidacion M6
 
 
 Para clonar:
+https://github.com/ThDelgado/venta_vehiculo.git
 
+
+Thelma Delgado
 
 
 
@@ -38,6 +41,10 @@ CREDENCIALES
     Usuario staff
     nombre: Gabriela
     Clave: G123456$
+
+    Usuario 
+    nombre: Marta01
+    Clave: M123456$
 
 
 
